@@ -1,4 +1,4 @@
-# User Journey Edge Case Mapper
+# Edge Case Mapper
 
 Reviews product goal documents to map end-to-end user flows, proactively flagging missing state transitions, edge cases, and error states. Use when the user wants journey maps, edge-case analysis, state-transition gaps, error-state inventories, flow completeness reviews, "what can go wrong in this flow," or QA-minded product walkthroughs from PRDs/goals. Typical triggers include pre-build flow reviews, missing empty/error states, and onboarding/checkout/auth path audits.
 
